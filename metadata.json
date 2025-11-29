@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GeminiLingo (تعلم الإنجليزية)",
+  "description": "A gamified English learning application for Arabic speakers, powered by Gemini AI. Features interactive lessons, instant feedback, and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
